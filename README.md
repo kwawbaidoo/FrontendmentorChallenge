@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-solution-9eUwnoPBxQ)
+- Live Site URL: [Add live site URL here](https://kwawbaidoo.github.io/QR-code-component/)
 
 ## My process
 
@@ -77,7 +77,7 @@ what i was doing. I'd recommend it to anyone still learning this concept.
 ## Author
 
 - Frontend Mentor - [@kwawbaidoo](https://www.frontendmentor.io/profile/kwawbaidoo)
-- Twitter - [@francisbaidoo](https://www.linkedin.com/in/francis-baidoo-78709a132)
+- Linkedin - [@francisbaidoo](https://www.linkedin.com/in/francis-baidoo-78709a132)
 
 
 ## Acknowledgments
